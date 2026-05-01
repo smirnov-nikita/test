@@ -1,0 +1,21 @@
+{
+  "info": {
+    "upload": 0,
+    "download": 133169152,
+    "total": 0,
+    "expire": 1780000000,
+    "title": "NVPN",
+    "message": "Если глушат — выбери обход$"
+  },
+  "proxies": [
+    {
+      "name": "NVPN",
+      "type": "hysteria2",
+      "server": "176.124.214.67",
+      "port": 443,
+      "password": "9vv43qbaOplu6NW",
+      "sni": "176.124.214.67",
+      "skip-cert-verify": true
+    }
+  ]
+}
